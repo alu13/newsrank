@@ -1,5 +1,13 @@
-HackGT 7 Project
+# HackGT 7 Project: Norenue News
 
-This project scrapes politics headlines from popular UK news sites, compares them, then clusters the news sites on popularity.
+![Sample Image](news_heatmap.png)
 
-NOTE: If you want to run the code, you may need to change document paths because my computer is a troll and isn't sure what folders are. 
+This project tackles media echo chambers by clustering news sources and recommending a diverse spread. The steps involved are below:
+
+1. Scrape politics headlines from popular UK news sites.
+2. Cluster these news sites using NLP-based tools.
+3. Recommend based on a 3rd-party reliability rating of these news sites.
+
+A video explaining this process is below.
+
+[Norenue News](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
